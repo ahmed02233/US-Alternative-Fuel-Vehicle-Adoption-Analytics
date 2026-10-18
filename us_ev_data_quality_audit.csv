@@ -1,0 +1,2 @@
+source_rows,source_columns,schema,missing_state_rows,missing_vehicle_counts,negative_vehicle_counts,fractional_vehicle_counts,unknown_fuel_rows,source_has_year,latest_snapshot_year,valid_long_records,snapshot_long_records,distinct_states_snapshot,excluded_missing_or_invalid_records
+51,13,WIDE,0,0,0,0,0,False,,612,612,51,0
