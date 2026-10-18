@@ -16,54 +16,54 @@ Compare EV/PHEV/HEV/gasoline registration shares and other fuel categories; scre
 ## Executive state comparisons
 | state | total_vehicles | EV | PHEV | HEV | GASOLINE | ev_adoption_pct |
 | --- | --- | --- | --- | --- | --- | --- |
-| Alabama | 4835900 | 0 | 0 | 0 | 4102200 | 0.0 |
-| Alaska | 559800 | 0 | 0 | 0 | 454300 | 0.0 |
-| Arizona | 6529000 | 0 | 0 | 0 | 5469000 | 0.0 |
-| Arkansas | 2708300 | 0 | 0 | 0 | 2246100 | 0.0 |
-| California | 36850300 | 0 | 0 | 0 | 31191900 | 0.0 |
-| Colorado | 5441800 | 0 | 0 | 0 | 4508800 | 0.0 |
-| Connecticut | 2945700 | 0 | 0 | 0 | 2612600 | 0.0 |
-| Delaware | 914700 | 0 | 0 | 0 | 791300 | 0.0 |
-| District of Columbia | 312100 | 0 | 0 | 0 | 262500 | 0.0 |
-| Florida | 18583200 | 0 | 0 | 0 | 16136500 | 0.0 |
+| California | 36850300 | 1256600 | 410700 | 1703200 | 31191900 | 3.41 |
+| District of Columbia | 312100 | 8100 | 3700 | 18100 | 262500 | 2.595 |
+| Hawaii | 1080100 | 25600 | 7300 | 36400 | 951000 | 2.37 |
+| Washington | 6816100 | 152100 | 41200 | 307200 | 5583000 | 2.231 |
+| Nevada | 2556100 | 47400 | 10600 | 69600 | 2169300 | 1.854 |
+| New Jersey | 7324100 | 134800 | 40900 | 174200 | 6433000 | 1.84 |
+| Oregon | 3832700 | 64400 | 28800 | 156900 | 3074300 | 1.68 |
+| Colorado | 5441800 | 90100 | 37500 | 152700 | 4508800 | 1.656 |
+| Maryland | 5060000 | 72100 | 31300 | 168700 | 4327800 | 1.425 |
+| Arizona | 6529000 | 89800 | 25600 | 175700 | 5469000 | 1.375 |
 
 ## Top five states by EV market share
 | state | ev_vehicles | total_vehicles | ev_adoption_pct |
 | --- | --- | --- | --- |
-| Alabama | 0 | 4835900 | 0.0 |
-| Alaska | 0 | 559800 | 0.0 |
-| Arizona | 0 | 6529000 | 0.0 |
-| Arkansas | 0 | 2708300 | 0.0 |
-| California | 0 | 36850300 | 0.0 |
+| California | 1256600 | 36850300 | 3.41 |
+| District of Columbia | 8100 | 312100 | 2.595 |
+| Hawaii | 25600 | 1080100 | 2.37 |
+| Washington | 152100 | 6816100 | 2.231 |
+| Nevada | 47400 | 2556100 | 1.854 |
 
 ## Bottom five states by EV market share
 | state | ev_vehicles | total_vehicles | ev_adoption_pct |
 | --- | --- | --- | --- |
-| California | 0 | 36850300 | 0.0 |
-| Texas | 0 | 25796600 | 0.0 |
-| Florida | 0 | 18583200 | 0.0 |
-| New York | 0 | 11318600 | 0.0 |
-| Ohio | 0 | 10317300 | 0.0 |
+| North Dakota | 1000 | 797400 | 0.125 |
+| Mississippi | 3600 | 2723300 | 0.132 |
+| Wyoming | 1100 | 652900 | 0.168 |
+| West Virginia | 2800 | 1510900 | 0.185 |
+| South Dakota | 1700 | 918000 | 0.185 |
 
 ## California compared with large states
 | state | total_vehicles | EV | PHEV | HEV | GASOLINE | ev_adoption_pct |
 | --- | --- | --- | --- | --- | --- | --- |
-| California | 36850300 | 0 | 0 | 0 | 31191900 | 0.0 |
-| Florida | 18583200 | 0 | 0 | 0 | 16136500 | 0.0 |
-| New York | 11318600 | 0 | 0 | 0 | 9905500 | 0.0 |
-| Texas | 25796600 | 0 | 0 | 0 | 21392800 | 0.0 |
+| California | 36850300 | 1256600 | 410700 | 1703200 | 31191900 | 3.41 |
+| Florida | 18583200 | 254900 | 57300 | 414500 | 16136500 | 1.372 |
+| New York | 11318600 | 131300 | 92300 | 314000 | 9905500 | 1.16 |
+| Texas | 25796600 | 230100 | 55300 | 445100 | 21392800 | 0.892 |
 
 ## National fuel category distribution
 | fuel | registered_vehicles | national_share_pct | states_reporting_positive |
 | --- | --- | --- | --- |
 | GASOLINE | 242870900 | 84.596 | 51 |
 | ETHANOL/FLEX FUEL | 20240600 | 7.05 | 51 |
-| HYBRID ELECTRIC (HEV) | 7392300 | 2.575 | 51 |
+| HEV | 7392300 | 2.575 | 51 |
 | DIESEL | 7184300 | 2.502 | 51 |
-| ELECTRIC (EV) | 3555900 | 1.239 | 51 |
+| EV | 3555900 | 1.239 | 51 |
 | BIODIESEL | 2803600 | 0.977 | 51 |
 | UNKNOWN FUEL | 1694100 | 0.59 | 51 |
-| PLUG-IN HYBRID ELECTRIC (PHEV) | 1307200 | 0.455 | 51 |
+| PHEV | 1307200 | 0.455 | 51 |
 | NATURAL GAS | 24700 | 0.009 | 41 |
 | HYDROGEN | 16900 | 0.006 | 1 |
 | PROPANE | 6000 | 0.002 | 22 |
@@ -72,12 +72,12 @@ Compare EV/PHEV/HEV/gasoline registration shares and other fuel categories; scre
 Only one registration snapshot was supplied. EV adoption growth and accelerating/decelerating adoption **cannot be determined** from this file.
 
 ## Three provisional infrastructure investment candidates
-**Alabama, Alaska, Arizona** — selected using a transparent combined EV fleet-count and adoption-share screening score, **not** a documented charger shortfall.
+**California, Washington, New Jersey** — selected using a transparent combined EV fleet-count and adoption-share screening score, **not** a documented charger shortfall.
 | state | EV | total_vehicles | ev_adoption_pct | screening_score |
 | --- | --- | --- | --- | --- |
-| Alabama | 0 | 4835900 | 0.0 | 0.51 |
-| Alaska | 0 | 559800 | 0.0 | 0.51 |
-| Arizona | 0 | 6529000 | 0.0 | 0.51 |
+| California | 1256600 | 36850300 | 3.41 | 1.0 |
+| Washington | 152100 | 6816100 | 2.231 | 0.941 |
+| New Jersey | 134800 | 7324100 | 1.84 | 0.912 |
 
 No verified public charging-station coverage/capacity data was supplied. Infrastructure gaps cannot be measured or asserted from registrations alone.
 

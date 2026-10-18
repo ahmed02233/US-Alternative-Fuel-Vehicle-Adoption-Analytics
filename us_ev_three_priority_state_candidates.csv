@@ -1,4 +1,4 @@
 state,EV,total_vehicles,ev_adoption_pct,ev_volume_rank_pct,ev_share_rank_pct,screening_score,priority_basis
-Alabama,0,4835900,0.0,0.5098039215686274,0.5098039215686274,0.5098,Provisional EV volume/share screen ONLY; charging infrastructure data unavailable
-Alaska,0,559800,0.0,0.5098039215686274,0.5098039215686274,0.5098,Provisional EV volume/share screen ONLY; charging infrastructure data unavailable
-Arizona,0,6529000,0.0,0.5098039215686274,0.5098039215686274,0.5098,Provisional EV volume/share screen ONLY; charging infrastructure data unavailable
+California,1256600,36850300,3.410012944263683,1.0,1.0,1.0,Provisional EV volume/share screen ONLY; charging infrastructure data unavailable
+Washington,152100,6816100,2.2314813456375346,0.9411764705882353,0.9411764705882353,0.9412,Provisional EV volume/share screen ONLY; charging infrastructure data unavailable
+New Jersey,134800,7324100,1.8404991739599406,0.9215686274509803,0.9019607843137255,0.9118,Provisional EV volume/share screen ONLY; charging infrastructure data unavailable

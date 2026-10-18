@@ -4,7 +4,7 @@
 Vehicle registrations measure recorded fleet stock—not new purchases, charging access, infrastructure shortage, charging utilization, or causal policy outcomes.
 
 ## 1. Screen three states for infrastructure feasibility (HIGH)
-**Candidates:** Alabama, Alaska, Arizona. **Evidence:** latest EV market-share and absolute EV-stock screening in `us_ev_three_priority_state_candidates.csv`. **Action:** collect and validate charger locations, number of ports, uptime, utilization, housing types, corridor traffic and underserved community access before siting new investments. **KPI:** operational public ports per 1,000 EVs, wait time and access within a travel-time threshold. **Caveat:** no charger gap is established from registrations alone.
+**Candidates:** California, Washington, New Jersey. **Evidence:** latest EV market-share and absolute EV-stock screening in `us_ev_three_priority_state_candidates.csv`. **Action:** collect and validate charger locations, number of ports, uptime, utilization, housing types, corridor traffic and underserved community access before siting new investments. **KPI:** operational public ports per 1,000 EVs, wait time and access within a travel-time threshold. **Caveat:** no charger gap is established from registrations alone.
 
 ## 2. Prioritize verified underserved charging areas (CRITICAL)
 **Action:** overlay geocoded charger locations, household income, apartment occupancy and trips with EV registration concentration. **KPI:** geographic coverage and reliable fast-charge availability. Avoid assuming state-level registration share reveals local access gaps.
